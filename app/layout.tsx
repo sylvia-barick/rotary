@@ -9,7 +9,7 @@ import { Suspense } from "react"
 export const metadata: Metadata = {
   title: "Rotary Club of Bengal Presidency",
   description: "Service Above Self - Official website of Rotary Club of Bengal Presidency",
-  generator: "v0.app",
+  generator: "debosyl",
 }
 
 export default function RootLayout({
